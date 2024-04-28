@@ -7,9 +7,9 @@
 
 2- After installing packaging adjust the environment path for the compiler.
  
- -> Find "bin" file inside gstreamer where you locate it when installing.
+ -> Find "bin" file inside GStreamer where you locate it when installing.
  
- -> For example, for my file is located at "C:\1.0\mingw_x86_64\bin".
+ -> For example, for my file, it is located at "C:\1.0\mingw_x86_64\bin".
  
  -> Finally add the path to environment variables. 
  
