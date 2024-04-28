@@ -14,7 +14,7 @@
  
  -> Finally add the path to environment variables. 
  
-3- To complete the set up, create a new variable and adjust its name as "GST_PLUGIN_SYSTEM_PATH" (the name is optional) and then add "C:\1.0\mingw_x86_64\lib\gstreamer-1.0" path.After that,
+3- To complete the setup, create a new variable and adjust its name as "GST_PLUGIN_SYSTEM_PATH" (the name is optional) and then add "C:\1.0\mingw_x86_64\lib\gstreamer-1.0" path.After that,
 you finally complete the set up of GStreamer for windows. 
 
 ![image](https://github.com/IsaErayy/GStreamer-Setup-on-Windows/assets/162883392/132cafd8-af8f-4073-97cf-299b157ef232)
